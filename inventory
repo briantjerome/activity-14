@@ -1,0 +1,9 @@
+[GLANCE]
+localhost ansible_connection=local
+192.168.56.112
+
+[KEYSTONE]
+192.168.56.112
+
+[NOVA]
+192.168.56.112
